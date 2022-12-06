@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://voluble-cuchufli-476084.netlify.app](https://voluble-cuchufli-476084.netlify.app)
 
 ### Built with
 
@@ -30,5 +30,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Alin Miron](https://www.your-site.com)
+- Website - [Alin Miron](https://github.com/mironalin)
 - Frontend Mentor - [@mironalin](https://www.frontendmentor.io/profile/mironalin)
